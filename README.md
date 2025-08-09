@@ -1,8 +1,22 @@
-# 🚀 C++ Roadmap
+<div align ="center"> 
 
-A comprehensive and structured learning path for mastering C++ and related computer science topics.
+ # Roadmap C++
 
-<br>
+</div> <br>
+
+<div align="center">
+  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)  
+
+</div>
+
+
+<big> 
+
+A comprehensive and structured learning path for mastering C++ and related computer science topics. 
+
+</big>
+
 
 ## <span style="color: aqua;">List of what will be studied</span>
 <details style="color: aqua;">
