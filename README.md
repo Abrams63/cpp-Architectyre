@@ -2,7 +2,11 @@
 
 A comprehensive and structured learning path for mastering C++ and related computer science topics.
 
----
+<br>
+
+## <span style="color: aqua;">List of what will be studied</span>
+<details style="color: aqua;">
+<summary>See more</summary>
 
 ## 🧭 1. C++ Basics (Beginner)
 
@@ -223,3 +227,16 @@ A comprehensive and structured learning path for mastering C++ and related compu
 - Follow C++ Core Guidelines
 - Master debugging and profiling tools
 
+</details>
+
+## Structure
+
+```
+cpp-Architectyre
+│
+├──   LICENSE     #
+├──   README.md   # <- you here
+├──   doc         # book
+├──   src         # example and guide
+
+```
